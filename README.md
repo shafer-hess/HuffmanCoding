@@ -5,6 +5,8 @@ This code allows you to use Huffman coding to encode and decode files.
 
 The implementation uses a Node and Minheap implementation to generate the Huffman Codes needed to encode/decode a file.
 
+Use the makefile to automatically compile all the necessary code, *Make sure all code is in the same directory*
+
 Running this program in the command line requires 4 arguements:
 
 # Encoding
